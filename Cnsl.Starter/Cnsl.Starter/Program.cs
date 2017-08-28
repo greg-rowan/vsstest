@@ -12,7 +12,7 @@ namespace Cnsl.Starter
         {
             Console.WriteLine("hello");
             Console.ReadKey();
-
+            // add new comment from featureA
         }
     }
 }
